@@ -8,13 +8,13 @@ Hello all!
 
 4. It has various features such as:
    
-   (i)Students can check for eligible companies according to their skills and company requirements.
+   (i) Students can check for eligible companies according to their skills and company requirements.
    
-   (ii) Als,o companies can select and filter out students according to their requirements and job roles.
+   (ii) Also, companies can select and filter out students according to their requirements and job roles.
    
    (iii) It also contains an alumni section where alumni's can provide their current and past job journey along with their other details like(company name, CTC, location, etc.).
    
-   (iv)Functionalities let users interact with the database. User-specific interaction induced. Only selected users
+   (iv) Functionalities let users interact with the database. User-specific interaction induced. Only selected users
 		like admin has special privileges, others have limited scope for smoother control and functioning.
 
  6. Link for the quick video tutorial: https://drive.google.com/drive/folders/1b_gAziJSrMgsJLVa0Y0FCFWu3onrCUxF?usp=share_link
